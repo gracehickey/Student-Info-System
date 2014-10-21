@@ -1,7 +1,8 @@
 
-public class ClassSorter
+public class ClassSorter implements Comparator <Student>
 	{
-
+		public int compare (Student s1, Student s2)
+		
 	}
 //public class ScoreSorter implements Comparator<Student>
 //{
